@@ -11,7 +11,7 @@
 
 Pre-requisites: ResNet, Inception
 
-- SegNet (2015): https://arxiv.org/abs/1511.00561
+- [SegNet](https://arxiv.org/abs/1511.00561) (2015): 
 - MobileNet (2017): https://arxiv.org/abs/1704.04861
 - PSPNet (2016): pyramid scene parsing network https://arxiv.org/abs/1612.01105
 - The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation (2016): https://arxiv.org/abs/1611.09326
