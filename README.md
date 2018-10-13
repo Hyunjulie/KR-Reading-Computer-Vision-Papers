@@ -13,6 +13,7 @@
 
 Pre-requisites: ResNet, Inception
 
+- [FCN](https://arxiv.org/pdf/1411.4038.pdf) (2014)
 - [SegNet](https://arxiv.org/abs/1511.00561) (2015)
 - [MobileNet](https://arxiv.org/abs/1704.04861) (2017)
 - [PSPNet](https://arxiv.org/abs/1612.01105) (2016): pyramid scene parsing network 
