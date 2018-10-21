@@ -2,6 +2,7 @@
 
 
 ### 목표: 
+* Backbone Network 몇가지 정리: Xception, Inception 
 * Image Segmentation 분야에서 중요했던/중요한 논문들을 읽고 정리 (Colab Notebook 또는 Jupyter Notebook 으로) 
 * Reuse 가능한 function들 만들고 (PyTorch) 
 * 논문 구현하기
@@ -9,7 +10,7 @@
 
 ------
 
-### 논문/모델 목록: 
+### 논문/모델 목록: TO DO!!
 
 Pre-requisites: ResNet, Inception
 
