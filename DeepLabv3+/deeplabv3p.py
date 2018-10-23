@@ -22,4 +22,43 @@ class Xception(nn.Module):
 		else: 
 			raise NotImplementedError
 
-		
+		#Entry flow 
+		self.conv1 = nn.Conv2d(inplanes, 32, 3, strides=2, padding=1, bias=False)
+		self.bn1 = nn.Batchnorm2d(32)
+		self.relu = nn.ReLU(inplace =True)
+		self.conv2 = nn.Conv2d(32, 64, 3, strides=1, padding=1, bias=False)
+		self.bn1 = nn.Batchnorm2d(64)
+
+		self.block1 = Block()
+
+
+
+
+
+
+https://github.com/JamesTonG321/pytorch-deeplab-xception/blob/master/networks/deeplab_xception.py
+
+
+
+
+
+
+q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
