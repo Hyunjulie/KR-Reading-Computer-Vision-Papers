@@ -75,26 +75,3 @@ class Up_3conv(nn.Module):
 		return output 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
