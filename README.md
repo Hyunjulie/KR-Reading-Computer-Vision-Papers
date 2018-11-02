@@ -8,7 +8,7 @@
 1. Xception - 설명 & Pytorch 코드
     - ipynb 가 로딩이 안되는 경우: [여기에 있습니다](https://nbviewer.jupyter.org/github/Hyunjulie/KR-Reading-Image-Segmentation-Papers/blob/master/Xception%EC%84%A4%EB%AA%85%EA%B3%BC%20Pytorch%EA%B5%AC%ED%98%84.ipynb) 
 2. GoTurn - 설명 & Pytorch 코드
-    - ipynb 가 로딩이 안되는 경우: [여기에 있습니다] (https://nbviewer.jupyter.org/github/Hyunjulie/KR-Reading-Image-Segmentation-Papers/blob/master/GoTurn%EC%84%A4%EB%AA%85_Pytorch.ipynb)
+    - ipynb 가 로딩이 안되는 경우: [여기에 있습니다](https://nbviewer.jupyter.org/github/Hyunjulie/KR-Reading-Image-Segmentation-Papers/blob/master/GoTurn%EC%84%A4%EB%AA%85_Pytorch.ipynb)
 3. 구글 Colab 에서 Pytorch로 Pretrained 된 모델 사용하는 방법 등 
     - 이것 저것 유용할 수 있는 command 필기용 
     - ipynb 가 로딩이 안되는 경우: [여기에 있습니다](https://nbviewer.jupyter.org/github/Hyunjulie/KR-Reading-Image-Segmentation-Papers/blob/master/Pytorch_Using_Pretrained.ipynb)
